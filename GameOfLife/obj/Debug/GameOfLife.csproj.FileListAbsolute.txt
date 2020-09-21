@@ -1,0 +1,15 @@
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\MainWindow.g.cs
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\App.g.cs
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife_MarkupCompile.cache
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife_MarkupCompile.lref
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\MainWindow.baml
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife.g.resources
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+D:\ZFleezy\Documents\Net\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
